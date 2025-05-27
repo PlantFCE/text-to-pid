@@ -1,5 +1,3 @@
-<img src="images/logo.svg" style="width: 100%">
-
 # <center>Text to P&ID</center>
 
 Text to P&ID aims to convert a process description to P&ID.
