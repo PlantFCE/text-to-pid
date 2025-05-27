@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.pypirc
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon[]
+._*
